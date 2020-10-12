@@ -12,7 +12,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Enabling, managing and controlling external and guest access in Microsoft Teams - Adis Jugo
 * Multilingual Features of SharePoint: What's New, What's Missing - Martin Laplante
 * [Azure Active Directory best practices from the field - Mustafa Toroman and Sasha Kranjac](presentations/Azure%20Active%20Directory%20best%20practices%20from%20the%20field-%20Mustafa%20Toroman%20and%20Sasha%20Kranjac.pdf)
-* Azure loves Terraform loves Azure - Peter De Tender
+* [Azure loves Terraform loves Azure - Peter De Tender](presentations/Azure%20Loves%20Terraform%20Loves%20Azure.pdf)
 * Why Office 365 Backup is Essential - Edward Watson
 * How to use Sensitivity Labels to secure your content - Alan Eardley
 
@@ -21,7 +21,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * You've got a Microsoft Teams application: how to handle distribution and increase reach? - Yannick Reekmans
 * Configure on Azure DevOps the continuous integration and delivery for SharePoint Framework - Giuliano De Luca De Luca
 * Cleaner SPFx Code with Functional Components and React Hooks - Bill Ayers
-* Mastering Modern Authentication and Authorization Techniques for SharePoint, Office 365 and Azure AD - Eric Shupps
+* [Mastering Modern Authentication and Authorization Techniques for SharePoint, Office 365 and Azure AD - Eric Shupps](presentations/Mastering%20Modern%20Authentication%20and%20Authorization%20Techniques%20for%20Office%20365%20and%20Azure%20AD.pdf)
 * Manage the creation of Microsoft Teams - David Ramalho
 
 ## Track Business Users
