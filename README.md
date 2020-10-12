@@ -17,7 +17,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * How to use Sensitivity Labels to secure your content - Alan Eardley
 
 ## Track Developer
-* Power Automation: Best practices, tips and tricks - Sandro Pereira
+* [Power Automation: Best practices, tips and tricks - Sandro Pereira](presentations/20201010-Collabdays2020%20-%20Sandro-Pereira-Power-Automates-Best-practices-Tips-Tricks.pdf)
 * [You've got a Microsoft Teams application: how to handle distribution and increase reach? - Yannick Reekmans](presentations/You've%20got%20a%20Microsoft%20Teams%20application,%20how%20to%20handle%20distribution%20and%20increase%20reach%20-%20Yannick%20Reekmans.pdf)
 * [Configure on Azure DevOps the continuous integration and delivery for SharePoint Framework - Giuliano De Luca De Luca](presentations/Giuliano%20De%20Luca%20-%20Configure%20on%20Azure%20DevOps%20the%20continuous%20integration%20and%20delivery%20for%20SPFx.pdf)
 * [Cleaner SPFx Code with Functional Components and React Hooks - Bill Ayers](presentations/Collabdays2020%20-%20Cleaner%20SPFx%20Code%20with%20Functional%20Components%20and%20React%20Hooks.pdf)
