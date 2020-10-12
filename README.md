@@ -4,7 +4,7 @@ Repository to share all presentations of Collabdays Lisbon 2020
 You can find the videos at our [YouTube channel](https://www.youtube.com/channel/UChW7lEm7McjhGev_3XoV9DA)
 
 ## Welcome
-* Welcome Session
+* [Welcome Session](presentations/CollabDaysLisbon-Welcome.pdf)
 
 ## Track IT PRO
 * Enable Distant Learning with SharePoint and Teams - Konstantinos Boutsioulis
@@ -29,5 +29,5 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Microsoft Teams in Education - Marcin Siewnicki
 * A mobile secure workplace for lawyers and other persons with confidential information - Raphael Koellner
 * Customize the UI in modern SharePoint workspaces - Corinna Lins
-* Build a location Check-in App in Power Apps, Power Automate & Power BI and integrate it in Teams - Michelle Wong
+* [Build a location Check-in App in Power Apps, Power Automate & Power BI and integrate it in Teams - Michelle Wong](presentations/Build-a-location-Check-in-App.pdf)
 * Governance, Security & Compliance in the Cloud - Tudor Damian
