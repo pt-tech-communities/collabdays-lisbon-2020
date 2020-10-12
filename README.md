@@ -18,7 +18,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 
 ## Track Developer
 * Power Automation: Best practices, tips and tricks - Sandro Pereira
-* You've got a Microsoft Teams application: how to handle distribution and increase reach? - Yannick Reekmans
+* [You've got a Microsoft Teams application: how to handle distribution and increase reach? - Yannick Reekmans](presentations/You've%20got%20a%20Microsoft%20Teams%20application,%20how%20to%20handle%20distribution%20and%20increase%20reach%20-%20Yannick%20Reekmans.pdf)
 * Configure on Azure DevOps the continuous integration and delivery for SharePoint Framework - Giuliano De Luca De Luca
 * [Cleaner SPFx Code with Functional Components and React Hooks - Bill Ayers](presentations/Collabdays2020%20-%20Cleaner%20SPFx%20Code%20with%20Functional%20Components%20and%20React%20Hooks.pdf)
 * [Mastering Modern Authentication and Authorization Techniques for SharePoint, Office 365 and Azure AD - Eric Shupps](presentations/Mastering%20Modern%20Authentication%20and%20Authorization%20Techniques%20for%20Office%20365%20and%20Azure%20AD.pdf)
