@@ -9,7 +9,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 ## Track IT PRO
 * Enable Distant Learning with SharePoint and Teams - Konstantinos Boutsioulis
 * Power BI & Office 365 Best Practices & Tips - Rui Romano
-* Enabling, managing and controlling external and guest access in Microsoft Teams - Adis Jugo
+* [Enabling, managing and controlling external and guest access in Microsoft Teams - Adis Jugo](presentations/AdisJugo-ManagingExternalUsers-CDLisbon.pptx)
 * Multilingual Features of SharePoint: What's New, What's Missing - Martin Laplante
 * [Azure Active Directory best practices from the field - Mustafa Toroman and Sasha Kranjac](presentations/Azure%20Active%20Directory%20best%20practices%20from%20the%20field-%20Mustafa%20Toroman%20and%20Sasha%20Kranjac.pdf)
 * [Azure loves Terraform loves Azure - Peter De Tender](presentations/Azure%20Loves%20Terraform%20Loves%20Azure.pdf)
