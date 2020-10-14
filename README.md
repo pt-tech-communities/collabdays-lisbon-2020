@@ -25,7 +25,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Manage the creation of Microsoft Teams - David Ramalho
 
 ## Track Business Users
-* Governance for Microsoft Teams: A to Z - Jasper Oosterveld
+* [Governance for Microsoft Teams: A to Z - Jasper Oosterveld](https://www.slideshare.net/sharepointjasper/collabdays-lisbon-2020-microsoft-teams-governance-az)
 * Microsoft Teams in Education - Marcin Siewnicki
 * A mobile secure workplace for lawyers and other persons with confidential information - Raphael Koellner
 * [Customize the UI in modern SharePoint workspaces - Corinna Lins](presentations/CustomizeTheUIinModernSharePointWorkspaces-CorinnaLins.pdf)
