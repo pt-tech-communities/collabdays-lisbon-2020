@@ -26,7 +26,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 
 ## Track Business Users
 * [Governance for Microsoft Teams: A to Z - Jasper Oosterveld](https://www.slideshare.net/sharepointjasper/collabdays-lisbon-2020-microsoft-teams-governance-az)
-* Microsoft Teams in Education - Marcin Siewnicki
+* [Microsoft Teams in Education - Marcin Siewnicki](presentations/Collabdays2020-Marcin.Siewnicki-Teams.in.Education.pdf)
 * A mobile secure workplace for lawyers and other persons with confidential information - Raphael Koellner
 * [Customize the UI in modern SharePoint workspaces - Corinna Lins](presentations/CustomizeTheUIinModernSharePointWorkspaces-CorinnaLins.pdf)
 * [Build a location Check-in App in Power Apps, Power Automate & Power BI and integrate it in Teams - Michelle Wong](presentations/Build-a-location-Check-in-App.pdf)
